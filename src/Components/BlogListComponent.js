@@ -2,7 +2,6 @@ import React from 'react';
 import axios from 'axios';
 import BlogComponent from './BlogComponent';
 import data from '../data.json';
-
 const BlogListComponent =  () => {
     
     // async function getJSON() {
