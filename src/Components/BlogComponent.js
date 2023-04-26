@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css';
+import '../css/blogcomponent.css';
 
 const BlogComponent = ({ title, image, link, date }) => {
     return (
