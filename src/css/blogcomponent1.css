@@ -1,0 +1,915 @@
+.style-0 {
+    --_sw-bc: hsl(47, 65%, 84%);
+    background-color: rgb(253, 247, 226);
+    border-color: rgb(241, 229, 188);
+    --_sw-after-bc: hsl(47, 65%, 84%);
+    --_sw-content-bc: hsl(210, 8%, 90%);
+    --_sw-header-bc: hsl(210, 8%, 90%);
+    border: 1px solid rgb(241, 229, 188);
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px, rgba(0, 0, 0, 0.05) 0px 1px 4px 0px, rgba(0, 0, 0, 0.05) 0px 2px 8px 0px;
+    font-size: 13px;
+    position: relative;
+    --_an-a-fc: hsl(210, 8%, 25%);
+    --_an-a-fc-hover: hsl(210, 8%, 35%);
+    padding: 0px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    vertical-align: baseline;
+}
+
+.style-1 {
+    display: block;
+    list-style-type: disc;
+    padding: 0px;
+    margin-left: 0px;
+    margin: 0px;
+    list-style: outside none disc;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-2 {
+    display: flex;
+    color: rgb(82, 89, 96);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    font-size: 12px;
+    font-weight: 700;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    background: rgb(251, 243, 213) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 1px solid rgb(241, 229, 188);
+    margin: 0px;
+    padding: 12px 15px;
+    background-color: rgb(251, 243, 213);
+    border-color: rgb(241, 229, 188);
+    border: 0px;
+    font-style: normal;
+    font-variant: normal;
+    font-stretch: 100%;
+    line-height: 12px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    vertical-align: baseline;
+}
+
+.style-3 {
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 12px 0px;
+    padding: 0px 16px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-4 {
+    flex-shrink: 0;
+    flex-basis: 8.33333%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-5 {
+    vertical-align: text-top;
+}
+
+.style-6 {
+    fill: rgb(35, 38, 41);
+}
+
+.style-7 {
+    min-width: 0px;
+    overflow-wrap: break-word;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-8 {
+    --_li-fc: hsl(206, 100%, 40%);
+    --_li-fc-hover: rgb(calc(51 + 0 * 0.8), calc(51 + 115.6 * 0.8), calc(51 + 204 * 0.8));
+    --_li-fc-visited: hsl(206, 100%, calc(40% - 5%));
+    color: rgb(59, 64, 69);
+    cursor: pointer;
+    text-decoration: none solid rgb(59, 64, 69);
+    user-select: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(59, 64, 69);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-9 {
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 12px 0px;
+    padding: 0px 16px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-10 {
+    flex-shrink: 0;
+    flex-basis: 8.33333%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-11 {
+    vertical-align: text-top;
+}
+
+.style-12 {
+    fill: rgb(35, 38, 41);
+}
+
+.style-13 {
+    min-width: 0px;
+    overflow-wrap: break-word;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-14 {
+    --_li-fc: hsl(206, 100%, 40%);
+    --_li-fc-hover: rgb(calc(51 + 0 * 0.8), calc(51 + 115.6 * 0.8), calc(51 + 204 * 0.8));
+    --_li-fc-visited: hsl(206, 100%, calc(40% - 5%));
+    color: rgb(59, 64, 69);
+    cursor: pointer;
+    text-decoration: none solid rgb(59, 64, 69);
+    user-select: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(59, 64, 69);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-15 {
+    display: flex;
+    color: rgb(82, 89, 96);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    font-size: 12px;
+    font-weight: 700;
+    background: rgb(251, 243, 213) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 1px solid rgb(241, 229, 188);
+    margin: 0px;
+    padding: 12px 15px;
+    background-color: rgb(251, 243, 213);
+    border-color: rgb(241, 229, 188);
+    border: 0px;
+    font-style: normal;
+    font-variant: normal;
+    font-stretch: 100%;
+    line-height: 12px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    vertical-align: baseline;
+}
+
+.style-16 {
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 12px 0px;
+    padding: 0px 16px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-17 {
+    flex-shrink: 0;
+    flex-basis: 8.33333%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-18 {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-19 {
+    min-width: 0px;
+    overflow-wrap: break-word;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-20 {
+    --_li-fc: hsl(206, 100%, 40%);
+    --_li-fc-hover: rgb(calc(51 + 0 * 0.8), calc(51 + 115.6 * 0.8), calc(51 + 204 * 0.8));
+    --_li-fc-visited: hsl(206, 100%, calc(40% - 5%));
+    color: rgb(59, 64, 69);
+    cursor: pointer;
+    text-decoration: none solid rgb(59, 64, 69);
+    user-select: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(59, 64, 69);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-21 {
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 12px 0px;
+    padding: 0px 16px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-22 {
+    flex-shrink: 0;
+    flex-basis: 8.33333%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-23 {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-24 {
+    min-width: 0px;
+    overflow-wrap: break-word;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-25 {
+    --_li-fc: hsl(206, 100%, 40%);
+    --_li-fc-hover: rgb(calc(51 + 0 * 0.8), calc(51 + 115.6 * 0.8), calc(51 + 204 * 0.8));
+    --_li-fc-visited: hsl(206, 100%, calc(40% - 5%));
+    color: rgb(59, 64, 69);
+    cursor: pointer;
+    text-decoration: none solid rgb(59, 64, 69);
+    user-select: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(59, 64, 69);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-26 {
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 12px 0px;
+    padding: 0px 16px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-27 {
+    flex-shrink: 0;
+    flex-basis: 8.33333%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-28 {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-29 {
+    min-width: 0px;
+    overflow-wrap: break-word;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-30 {
+    --_li-fc: hsl(206, 100%, 40%);
+    --_li-fc-hover: rgb(calc(51 + 0 * 0.8), calc(51 + 115.6 * 0.8), calc(51 + 204 * 0.8));
+    --_li-fc-visited: hsl(206, 100%, calc(40% - 5%));
+    color: rgb(59, 64, 69);
+    cursor: pointer;
+    text-decoration: none solid rgb(59, 64, 69);
+    user-select: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(59, 64, 69);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-31 {
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 12px 0px;
+    padding: 0px 16px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-32 {
+    flex-shrink: 0;
+    flex-basis: 8.33333%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-33 {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-34 {
+    min-width: 0px;
+    overflow-wrap: break-word;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-35 {
+    --_li-fc: hsl(206, 100%, 40%);
+    --_li-fc-hover: rgb(calc(51 + 0 * 0.8), calc(51 + 115.6 * 0.8), calc(51 + 204 * 0.8));
+    --_li-fc-visited: hsl(206, 100%, calc(40% - 5%));
+    color: rgb(59, 64, 69);
+    cursor: pointer;
+    text-decoration: none solid rgb(59, 64, 69);
+    user-select: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(59, 64, 69);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-36 {
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 12px 0px;
+    padding: 0px 16px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-37 {
+    flex-shrink: 0;
+    flex-basis: 8.33333%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-38 {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-39 {
+    min-width: 0px;
+    overflow-wrap: break-word;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-40 {
+    --_li-fc: hsl(206, 100%, 40%);
+    --_li-fc-hover: rgb(calc(51 + 0 * 0.8), calc(51 + 115.6 * 0.8), calc(51 + 204 * 0.8));
+    --_li-fc-visited: hsl(206, 100%, calc(40% - 5%));
+    color: rgb(59, 64, 69);
+    cursor: pointer;
+    text-decoration: none solid rgb(59, 64, 69);
+    user-select: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(59, 64, 69);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-41 {
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 12px 0px;
+    padding: 0px 16px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-42 {
+    flex-shrink: 0;
+    flex-basis: 8.33333%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-43 {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-44 {
+    min-width: 0px;
+    overflow-wrap: break-word;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(35, 38, 41);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}
+
+.style-45 {
+    --_li-fc: hsl(206, 100%, 40%);
+    --_li-fc-hover: rgb(calc(51 + 0 * 0.8), calc(51 + 115.6 * 0.8), calc(51 + 204 * 0.8));
+    --_li-fc-visited: hsl(206, 100%, calc(40% - 5%));
+    color: rgb(59, 64, 69);
+    cursor: pointer;
+    text-decoration: none solid rgb(59, 64, 69);
+    user-select: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none rgb(59, 64, 69);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 13px;
+    font-family: Times;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-size: 13px;
+    vertical-align: baseline;
+}

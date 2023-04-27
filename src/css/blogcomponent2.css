@@ -1,0 +1,586 @@
+.style-0 {
+    display: grid;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-1 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-2 {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 4px;
+    overflow: hidden;
+    box-sizing: border-box;
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-3 {
+    min-height: 169px;
+    min-width: 300px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-4 {
+    color: rgb(102, 102, 102);
+    text-decoration-color: rgb(102, 102, 102);
+    margin: 0px;
+    padding: 0px;
+    transition: background 0s ease 0s, all 0.25s ease 0s, all 0s ease-in-out 0s;
+    text-decoration: none solid rgb(102, 102, 102);
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-5 {
+    margin: 0px;
+    padding: 0px;
+    pointer-events: none;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-6 {
+    margin: 0px;
+    padding: 0px 0px 168.75px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    height: 168.75px;
+    padding-bottom: 168.75px;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-7 {
+    width: 100%;
+    height: 1px;
+    min-height: 100%;
+    height: 168.75px;
+    min-height: 100%;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-8 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-9 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: outside none none;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-10 {
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 1px solid rgb(232, 232, 232);
+    position: relative;
+    box-sizing: border-box;
+    border: 0px;
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-11 {
+    color: rgb(102, 102, 102);
+    text-decoration-color: rgb(102, 102, 102);
+    margin: 0px;
+    padding: 16px 0px 10px 16px;
+    padding-bottom: 10px;
+    display: block;
+    transition: background 0s ease 0s, all 0.25s ease 0s, all 0s ease-in-out 0s;
+    text-decoration: none solid rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-12 {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-13 {
+    margin-right: 0px;
+    padding: 0px;
+    height: 32px;
+    width: 32px;
+    background-image: url('https://www.foxnews.com/static/orion/styles/img/core/s/logos/color/fox-news.svg');
+    background-position: 0px 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: block;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+    overflow: hidden;
+}
+
+.style-14 {
+    margin: -4px 0px 0px 16px;
+    padding: 0px;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 18px;
+    color: rgb(0, 51, 102);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(0, 51, 102);
+    vertical-align: baseline;
+}
+
+.style-15 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-16 {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    vertical-align: baseline;
+}
+
+.style-17 {
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 1px solid rgb(232, 232, 232);
+    position: relative;
+    box-sizing: border-box;
+    border: 0px;
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-18 {
+    color: rgb(102, 102, 102);
+    text-decoration-color: rgb(102, 102, 102);
+    margin: 0px;
+    padding: 16px 0px 12px 16px;
+    padding-bottom: 12px;
+    display: block;
+    transition: background 0s ease 0s, all 0.25s ease 0s, all 0s ease-in-out 0s;
+    text-decoration: none solid rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-19 {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-20 {
+    margin-right: 0px;
+    padding: 0px;
+    height: 16px;
+    width: 32px;
+    background-image: url('https://www.foxnews.com/static/orion/styles/img/core/s/logos/color/fox-business-with-divider.svg');
+    background-position: 0px 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: block;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-21 {
+    margin: -4px 0px 0px 16px;
+    padding: 0px;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 18px;
+    color: rgb(0, 51, 102);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(0, 51, 102);
+    vertical-align: baseline;
+}
+
+.style-22 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-23 {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    vertical-align: baseline;
+}
+
+.style-24 {
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 1px solid rgb(232, 232, 232);
+    position: relative;
+    box-sizing: border-box;
+    border: 0px;
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-25 {
+    color: rgb(102, 102, 102);
+    text-decoration-color: rgb(102, 102, 102);
+    margin: 0px;
+    padding: 16px 0px 12px 16px;
+    padding-bottom: 12px;
+    display: block;
+    transition: background 0s ease 0s, all 0.25s ease 0s, all 0s ease-in-out 0s;
+    text-decoration: none solid rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-26 {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-27 {
+    margin-right: 0px;
+    padding: 0px;
+    height: 32px;
+    width: 30px;
+    background-image: url('https://www.foxnews.com/static/orion/styles/img/core/s/logos/color/fox-nation.svg');
+    background-position: 0px 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: block;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-28 {
+    margin: -4px 0px 0px 16px;
+    padding: 0px;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 18px;
+    color: rgb(0, 51, 102);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(0, 51, 102);
+    vertical-align: baseline;
+}
+
+.style-29 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-30 {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    vertical-align: baseline;
+}
+
+.style-31 {
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 1px solid rgb(232, 232, 232);
+    position: relative;
+    box-sizing: border-box;
+    border: 0px;
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-32 {
+    color: rgb(102, 102, 102);
+    text-decoration-color: rgb(102, 102, 102);
+    margin: 0px;
+    padding: 16px 0px 12px 16px;
+    padding-bottom: 12px;
+    display: block;
+    transition: background 0s ease 0s, all 0.25s ease 0s, all 0s ease-in-out 0s;
+    text-decoration: none solid rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-33 {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-34 {
+    margin-right: 0px;
+    padding: 0px;
+    height: 32px;
+    width: 32px;
+    background-image: url('https://www.foxnews.com/static/orion/styles/img/core/s/logos/color/fox-weather.svg');
+    background-position: 0px 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: block;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-35 {
+    margin: -4px 0px 0px 16px;
+    padding: 0px;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 18px;
+    color: rgb(0, 51, 102);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(0, 51, 102);
+    vertical-align: baseline;
+}
+
+.style-36 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-37 {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    vertical-align: baseline;
+}
+
+.style-38 {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-39 {
+    color: rgb(102, 102, 102);
+    text-decoration-color: rgb(102, 102, 102);
+    margin: 0px;
+    padding: 16px 0px 16px 16px;
+    padding-bottom: 16px;
+    display: block;
+    transition: background 0s ease 0s, all 0.25s ease 0s, all 0s ease-in-out 0s;
+    text-decoration: none solid rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-40 {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-41 {
+    margin-right: 0px;
+    padding: 0px;
+    height: 32px;
+    width: 32px;
+    background-image: url('https://www.foxnews.com/static/orion/styles/img/core/s/logos/color/fox-news-audio.svg');
+    background-position: 0px 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: block;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-42 {
+    margin: -4px 0px 0px 16px;
+    padding: 0px;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 18px;
+    color: rgb(0, 51, 102);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(0, 51, 102);
+    vertical-align: baseline;
+}
+
+.style-43 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-44 {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: rgb(102, 102, 102);
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    vertical-align: baseline;
+}
+
+.style-45 {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-46 {
+    margin: 0px auto 24px;
+    display: block;
+    margin-bottom: 24px;
+    padding: 0px;
+    min-height: 250px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-47 {
+    margin: 0px;
+    padding: 0px;
+    min-height: 250px;
+    box-sizing: border-box;
+    border: 0px none rgb(102, 102, 102);
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-48 {
+    border: 0pt none;
+    display: inline-block;
+    width: 300px;
+    height: 600px;
+    display: inline-block;
+    width: 300px;
+    height: 600px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    vertical-align: baseline;
+}
+
+.style-49 {
+    border: 0px;
+    vertical-align: bottom;
+    vertical-align: bottom;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
