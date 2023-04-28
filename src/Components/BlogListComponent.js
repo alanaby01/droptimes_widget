@@ -20,7 +20,7 @@ const BlogListComponent = () => {
   // }
   // getJSON();  
   return (
-    <div class="style-0" data-tracker="cb=1">
+    <div className="style-0" data-tracker="cb=1">
       {data.map((post) => <BlogComponent__ title={post.title} image={post.field_image} link={post.view_node} date={post.created} />)}
     </div>
   );

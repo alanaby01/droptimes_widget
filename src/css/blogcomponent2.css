@@ -128,7 +128,7 @@
     color: rgb(102, 102, 102);
     text-decoration-color: rgb(102, 102, 102);
     margin: 0px;
-    padding: 16px 0px 10px 16px;
+    padding: 16px 10px 10px 16px;
     padding-bottom: 10px;
     display: block;
     transition: background 0s ease 0s, all 0.25s ease 0s, all 0s ease-in-out 0s;
@@ -152,8 +152,6 @@
 .style-13 {
     margin-right: 0px;
     padding: 0px;
-    height: 32px;
-    width: 32px;
     background-image: url('https://www.foxnews.com/static/orion/styles/img/core/s/logos/color/fox-news.svg');
     background-position: 0px 0px;
     background-size: 100% 100%;
@@ -163,7 +161,7 @@
     border: 0px none rgb(102, 102, 102);
     font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     vertical-align: baseline;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .style-14 {
@@ -547,7 +545,6 @@
     box-sizing: border-box;
     border: 0px none rgb(102, 102, 102);
     font: 16px / 16px Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    vertical-align: baseline;
 }
 
 .style-47 {
