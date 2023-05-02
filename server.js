@@ -10,9 +10,14 @@ app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
 })
 
-app.get('/json-fetch', (req,res) => {
+app.get('/json-fetch', (req, res) => {
     res.sendFile(__dirname + '/index.html');
-})
+});
+
+app.get('/?num_rows=/', (req, res) => {
+    console.log(req.route.query.num_rows);
+    res.send(200);
+});
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)

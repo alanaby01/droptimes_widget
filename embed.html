@@ -1,0 +1,21 @@
+<div id="drop-times-block"></div>
+<script>
+    (function(document){
+        // Editable variable determining the number of rows to 
+        // be printed inside the DropTimes embaddebale component.
+        var num_rows = 6;
+        var width = "25%";
+        var height = "70%";
+        var baseURL = "http://localhost:3000"
+
+        // Do not edit code below this.
+        var div_id = "drop-times-block";
+        var div = document.getElementById(div_id);
+        var iframe_url = baseURL+'?num_rows='+num_rows;
+        var iframe = document.createElement('iframe');
+        iframe.src = baseURL;
+        iframe.width = width;
+        iframe.height = height;
+        document.body.appendChild(iframe);
+    })(document);
+</script>
